@@ -1,7 +1,9 @@
 hi adding line in branchdoc1
 
-hi adding line by sree
 
+<<<<<<< HEAD
 hi adding second line by sree
 
 hi adding third line by sree
+=======
+>>>>>>> 96e259e277c928fc5b8a2c6e1a63692e9ad90183
