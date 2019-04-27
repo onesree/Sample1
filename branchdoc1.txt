@@ -1,7 +1,7 @@
 hi adding line in branchdoc1
-<<<<<<< HEAD
+
 
 simultanous chnages to branchdoc1
-=======
-simultaneous to brachdoc1 sree
->>>>>>> cc5322dea3722cea1d7c1621171baf3dfcd00271
+
+simultaneous to brachdoc1 sree1
+
