@@ -1,2 +1,11 @@
 hi adding line in branchdoc1
+<<<<<<< HEAD
 simultaneous to brachdoc1 sree1sree
+=======
+<<<<<<< HEAD
+
+simultanous chnages to branchdoc1
+=======
+simultaneous to brachdoc1 sree
+>>>>>>> cc5322dea3722cea1d7c1621171baf3dfcd00271
+>>>>>>> 34b339e06bcced61f77500f19812fa387792f99c
