@@ -3,3 +3,5 @@ hi adding line in branchdoc1
 hi adding line by sree
 
 hi adding second line by sree
+
+hi adding third line by sree
