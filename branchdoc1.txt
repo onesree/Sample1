@@ -1,3 +1,7 @@
 hi adding line in branchdoc1
 
+<<<<<<< HEAD
 hihi1
+=======
+hisree
+>>>>>>> 2d086fe8588740ac59114553e6fe91abacf75405
