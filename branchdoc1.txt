@@ -1,7 +1,1 @@
 hi adding line in branchdoc1
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 0a165daaa18951d953fbe131d91c47b31de4bae7
