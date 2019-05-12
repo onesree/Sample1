@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 hi adding line in branchdoc1
+
+=======
+hi adding line in branchdoc1 a hello
+dded sreeq11
+>>>>>>> Stashed changes
 
 
 
